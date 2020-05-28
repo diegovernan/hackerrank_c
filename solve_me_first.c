@@ -14,7 +14,7 @@ int main() {
 
     int sum; 
 
-    sum = solveMeFirst(num1,num2);
+    sum = solveMeFirst(num1, num2);
 
     printf("%d", sum);
 
