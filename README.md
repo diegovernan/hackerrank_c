@@ -1,24 +1,24 @@
 # C - HackerRank
 
-- 1.c - "Hello World!" in C
+- 01.c - Introduction -> "Hello World!" in C
 
-- 2.c - Playing With Characters
+- 02.c - Introduction -> Playing With Characters
 
-- 3.c - Sum and Difference of Two Numbers
+- 03.c - Introduction -> Sum and Difference of Two Numbers
 
-- 4.c - Functions in C
+- 04.c - Introduction -> Functions in C
 
-- 5.c - Pointers in C
+- 05.c - Introduction -> Pointers in C
 
-- 6.c - Conditional Statements in C
+- 06.c - Conditionals and Loops -> Conditional Statements in C
 
-- 7.c - For Loop in C
+- 07.c - Conditionals and Loops -> For Loop in C
 
-- 8.c - Sum of Digits of a Five Digit Number
+- 08.c - Conditionals and Loops -> Sum of Digits of a Five Digit Number
 
-- 9.c - BitWise Operators
+- 09.c - Conditionals and Loops -> BitWise Operators
 
-- 10.c - Printing Pattern using Loops
+- 10.c - Conditionals and Loops -> Printing Pattern using Loops
 
 ### Compilar e rodar (linux)
 
