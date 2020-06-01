@@ -1,28 +1,32 @@
 # C - HackerRank
 
-- 01.c - Introduction -> "Hello World!" in C
+Introduction
 
-- 02.c - Introduction -> Playing With Characters
+- 01.c - "Hello World!" in C
 
-- 03.c - Introduction -> Sum and Difference of Two Numbers
+- 02.c - Playing With Characters
 
-- 04.c - Introduction -> Functions in C
+- 03.c - Sum and Difference of Two Numbers
 
-- 05.c - Introduction -> Pointers in C
+- 04.c - Functions in C
 
-- 06.c - Conditionals and Loops -> Conditional Statements in C
+- 05.c - Pointers in C
 
-- 07.c - Conditionals and Loops -> For Loop in C
+Conditionals and Loops
 
-- 08.c - Conditionals and Loops -> Sum of Digits of a Five Digit Number
+- 06.c - Conditional Statements in C
 
-- 09.c - Conditionals and Loops -> BitWise Operators
+- 07.c - For Loop in C
 
-- 10.c - Conditionals and Loops -> Printing Pattern using Loops
+- 08.c - Sum of Digits of a Five Digit Number
+
+- 09.c - BitWise Operators
+
+- 10.c - Printing Pattern using Loops
 
 ### Compilar e rodar (linux)
 
-Na pasta raíz do projeto:
+Na pasta raiz do projeto:
 
 ```bash
 $ gcc NomeDoPrograma.c -o NomeDoPrograma
