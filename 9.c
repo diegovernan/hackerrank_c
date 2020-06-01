@@ -3,52 +3,44 @@
 #include <math.h>
 #include <stdlib.h>
 
+//Complete the following function.
+void calculate_the_maximum(int n, int k)
+{
+    //Write your code here.
+    int max_and = 0, max_or = 0, max_xor = 0;
+
+    for (int i = 1; i <= n; i++)
+    {
+        for (int j = i + 1; j <= n; j++)
+        {
+            if (max_and < (i & j) && (i & j) < k)
+            {
+                max_and = i & j;
+            }
+
+            if (max_or < (i | j) && (i | j) < k)
+            {
+                max_or = i | j;
+            }
+
+            if (max_xor < (i ^ j) && (i ^ j) < k)
+            {
+                max_xor = i ^ j;
+            }
+        }
+    }
+
+    printf("%d\n", max_and);
+    printf("%d\n", max_or);
+    printf("%d\n", max_xor);
+}
+
 int main()
 {
-    int n;
+    int n, k;
 
-    scanf("%d", &n);
-
-    // Complete the code to print the pattern.
-    for (int i = n; i >= 1; i--)
-    {
-        for (int j = n; j > i; j--)
-        {
-            printf("%d ", j);
-        }
-
-        for (int j = 1; j <= 2 * i - 1; j++)
-        {
-            printf("%d ", i);
-        }
-
-        for (int j = i + 1; j <= n; j++)
-        {
-            printf("%d ", j);
-        }
-
-        printf("\n");
-    }
-
-    for (int i = 1; i < n; i++)
-    {
-        for (int j = n; j > i; j--)
-        {
-            printf("%d ", j);
-        }
-
-        for (int j = 1; j <= 2 * i - 1; j++)
-        {
-            printf("%d ", i + 1);
-        }
-
-        for (int j = i + 1; j <= n; j++)
-        {
-            printf("%d ", j);
-        }
-
-        printf("\n");
-    }
+    scanf("%d %d", &n, &k);
+    calculate_the_maximum(n, k);
 
     return 0;
 }
