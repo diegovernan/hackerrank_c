@@ -14,6 +14,12 @@
 
 - 7.c - For Loop in C
 
+- 8.c - Sum of Digits of a Five Digit Number
+
+- 9.c - BitWise Operators
+
+- 10.c - Printing Pattern using Loops
+
 ### Compilar e rodar (linux)
 
 Na pasta raíz do projeto:
