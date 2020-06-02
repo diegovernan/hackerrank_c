@@ -1,4 +1,4 @@
-# C - HackerRank
+# HackerRank - C
 
 Introduction
 
