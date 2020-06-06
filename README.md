@@ -36,6 +36,10 @@ Arrays and Strings
 
 - 15.c - Dynamic Array in C (em andamento)
 
+Functions
+
+- 16.c - Calculate the Nth term
+
 ### Compilar e rodar (linux)
 
 Na pasta raiz do projeto:
