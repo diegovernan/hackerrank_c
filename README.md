@@ -24,6 +24,18 @@ Conditionals and Loops
 
 - 10.c - Printing Pattern using Loops
 
+Arrays and Strings
+
+- 11.c - 1D Arrays in C
+
+- 12.c - Array Reversal
+
+- 13.c - Printing Tokens
+
+- 14.c - Digit Frequency
+
+- 15.c - Dynamic Array in C (em andamento)
+
 ### Compilar e rodar (linux)
 
 Na pasta raiz do projeto:
