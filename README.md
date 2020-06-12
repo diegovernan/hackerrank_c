@@ -40,6 +40,8 @@ Functions
 
 - 16.c - Calculate the Nth term
 
+- 17.c - Students Marks Sum
+
 ### Compilar e rodar (linux)
 
 Na pasta raiz do projeto:
