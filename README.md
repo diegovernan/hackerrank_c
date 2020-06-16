@@ -42,6 +42,12 @@ Functions
 
 - 17.c - Students Marks Sum
 
+- 18.c - Sorting Array of String (em andamento)
+
+- 19.c - Permutations of Strings (em andamento)
+
+- 20.c - Variadic functions in C
+
 ### Compilar e rodar (linux)
 
 Na pasta raiz do projeto:
