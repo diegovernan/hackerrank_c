@@ -48,6 +48,10 @@ Functions
 
 - 20.c - Variadic functions in C
 
+- 21.c - Querying the Document (em andamento)
+
+- 22.c - Boxes through a Tunnel
+
 ### Compilar e rodar (linux)
 
 Na pasta raiz do projeto:
