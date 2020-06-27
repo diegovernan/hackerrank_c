@@ -52,8 +52,11 @@ Functions
 
 - 22.c - Boxes through a Tunnel
 
+- 23.c - Small Triangles, Large Triangles (em andamento)
 
-teste
+- 24.c - Post Transition (em andamento)
+
+- 25.c - Structuring the Document (em andamento)
 
 ### Compilar e rodar (linux)
 
