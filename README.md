@@ -50,6 +50,8 @@ Functions
 
 - 21.c - Querying the Document (em andamento)
 
+Structs and Enums
+
 - 22.c - Boxes through a Tunnel
 
 - 23.c - Small Triangles, Large Triangles (em andamento)
