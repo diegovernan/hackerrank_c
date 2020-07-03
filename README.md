@@ -34,7 +34,7 @@ Arrays and Strings
 
 - 14.c - Digit Frequency
 
-- 15.c - Dynamic Array in C (em andamento)
+- 15.c - Dynamic Array in C
 
 Functions
 
