@@ -42,13 +42,13 @@ Functions
 
 - 17.c - Students Marks Sum
 
-- 18.c - Sorting Array of String (em andamento)
+- 18.c - Sorting Array of String
 
-- 19.c - Permutations of Strings (em andamento)
+- 19.c - Permutations of Strings
 
 - 20.c - Variadic functions in C
 
-- 21.c - Querying the Document (em andamento)
+- 21.c - Querying the Document
 
 Structs and Enums
 
