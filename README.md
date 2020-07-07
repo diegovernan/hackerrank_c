@@ -54,11 +54,11 @@ Structs and Enums
 
 - 22.c - Boxes through a Tunnel
 
-- 23.c - Small Triangles, Large Triangles (em andamento)
+- 23.c - Small Triangles, Large Triangles
 
-- 24.c - Post Transition (em andamento)
+- 24.c - Post Transition
 
-- 25.c - Structuring the Document (em andamento)
+- 25.c - Structuring the Document
 
 ### Compilar e rodar (linux)
 
